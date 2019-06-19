@@ -9,4 +9,5 @@ You prefer a good old 12-hour time format. But the modern world we live in would
 
 1. ClockDict - File using hashtable/dictionary brute force approach
 2. ClockImport - datetime module/class import
-3. ClockString - Using only slice manipulation, no import
+3. ClockString - Using only slice manipulation, no import of any kind
+4. ClockDictTXTIMP - ClockDict with txt to Dict import
