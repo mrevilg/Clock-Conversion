@@ -8,6 +8,6 @@ You prefer a good old 12-hour time format. But the modern world we live in would
 - if hours is less than 10 - don't write a '0' before it. For example: '9:05 a.m.'
 
 1. ClockDict - File using hashtable/dictionary brute force approach
-2. ClockImport - datetime module/class import
-3. ClockString - Using only slice manipulation, no import of any kind
-4. ClockDictTXTIMP - ClockDict with txt to Dict import
+2. ClockDictTXTIMP - ClockDict with txt to Dict import
+3. ClockImport - datetime module/class import
+4. ClockString - Using only slice manipulation, no import of any kind
