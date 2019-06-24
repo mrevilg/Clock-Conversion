@@ -11,3 +11,4 @@ You prefer a good old 12-hour time format. But the modern world we live in would
 2. ClockDictTXTIMP - ClockDict with txt to Dict import
 3. ClockImport - datetime module/class import
 4. ClockString - Using only slice manipulation, no import of any kind
+5.AgeInSeconds - Tells you your age in seconds
