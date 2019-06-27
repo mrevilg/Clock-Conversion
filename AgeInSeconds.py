@@ -1,6 +1,6 @@
 from datetime import datetime, time
 
-birth_date = input ("Please entre your birthdate yyyy-mm-dd hh:mm:ss")
+birth_date = input ("Please entre your birthdate yyyy-mm-dd hh:mm:ss - ")
 
 def date_diff_in_Seconds(dt2, dt1):
   timedelta = dt2 - dt1
