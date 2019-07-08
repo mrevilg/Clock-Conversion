@@ -8,13 +8,7 @@ with open('minutes.txt') as fileobj:
       (key, value) = line.split("|")
       time_conversion[key] = value
 
-print(time_conversion)
+print (time_conversion.get(user_time,"Unknown Input"))
 
-# iterate over the dictionary keys and return value if same
-for key, value in time_conversion.items():
-    if key == user_time:
-        print (value)
-    else:
-        print ('unable convert time given')
-        break
+
     
